@@ -71,6 +71,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Bot.Builder.Cogni
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integral", "Integral", "{5F6F1140-6799-445F-AC3E-92D77D38030C}"
 	ProjectSection(SolutionItems) = preProject
+		Samples\Integral\README.md = Samples\Integral\README.md
 		Samples\Integral\Smalltalk.tsv = Samples\Integral\Smalltalk.tsv
 	EndProjectSection
 EndProject
